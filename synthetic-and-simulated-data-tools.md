@@ -2,6 +2,9 @@
 
 ## R Packages
 
+| Package | Description | Data | PII | Method | Publication Date | Last Updated |
+|---------|-------------|------|-----|--------|------------------|--------------|
+| [synthpop](https://cran.r-project.org/web/packages/synthpop/index.html) | A tool for producing synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis. 
 
 
 -------- REMOVE EVERYTHING BELOW AFTER PROCESSING --------
