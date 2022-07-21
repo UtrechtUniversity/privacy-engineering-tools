@@ -15,7 +15,7 @@ This packages in this category are useful if you have a tabular dataset and want
 
 
 | Name | Methods |  Extra Features | Synthetic spectrum | Maintenance | GitHub stars | Developers | Paper | License |
-|--|--|--|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|--|--|
 | [SDV](https://github.com/sdv-dev/SDV) | Copula, GAN, TVAE | Single table, relational database, time-series, deidentification | synthetically-augmented replica | Active | 900+ | MIT/DataCebo | [paper](https://dai.lids.mit.edu/wp-content/uploads/2018/03/SDV.pdf) | MIT | 
 | [ydata-synthetic](https://github.com/ydataai/ydata-synthetic) | GAN | Single table and time-series | Synthetically-augmented multivariate plausible | Active | 600+ | - | - | [MIT license](https://github.com/ydataai/ydata-synthetic/blob/dev/LICENSE) |
 | [Gretel Synthetics](https://github.com/gretelai/gretel-synthetics) | LSTM | Differential Privacy | Synthetically-augmented multivariate plausible | Active | 200+ | Gretel.ai | -| [Apache-2.0 license](https://github.com/gretelai/gretel-synthetics/blob/master/LICENSE) |
