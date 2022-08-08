@@ -10,6 +10,10 @@ Current overviews can be accessed here:
 - [Python tools](/python.md)
   - [Code snippets for getting started with Python tools](/python-code.md)
 
+## License and citation
+
+This repository is licensed under an MIT license. You can [view the license text here](/LICENSE.md). 
+
 ## Contact and contribution
 
 For questions about this repository, please contact Utrecht University's <a href = "https://www.uu.nl/en/research/research-data-management/contact-us" target = "_blank">Research Data Management Support</a>, or open an Issue or Pull request in this repository.
