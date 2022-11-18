@@ -40,17 +40,6 @@ Generative methods generally do not need any input dataset. Instead the user spe
 | [physim-dataset-generator](https://github.com/cmitash/physim-dataset-generator) | Images for object detection | 3D rendering | Inactive | 60+ | [paper](https://arxiv.org/pdf/1703.03347.pdf) | [BSD-2-Clause license](https://github.com/cmitash/physim-dataset-generator/blob/master/LICENSE) |
 | [google-semantic-location-history](https://github.com/UtrechtUniversity/google-semantic-location-history) | Google semantic location histories | - | Active | 2 | - | MIT |
 
-## De-identification
-
-These packages are used for de-identification. This will probably be put in their own file at some point.
-
-| name | De-identifies | Extra features | Maintenance | GitHub stars | paper | License |
-|--|--|--|--|--|--|--|
-| [presidio](https://github.com/microsoft/presidio) | Text and Images | customization | Active | 1K+ | - | MIT
-| [deduce](https://github.com/vmenger/deduce) | Dutch medical texts | - | Active | 30+ | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0736585316307365) | GPL-v3
-| [Masked-Piper](https://github.com/WimPouw/TowardsMultimodalOpenScience) | People in videos | kinematic overlays, time-series | Active | 2 | - | Missing License |
-| [anonymoUUs](https://github.com/UtrechtUniversity/anonymouus) | Text | Pattern matching, directories | Active | 2 | - | MIT |
-
 
 ## Specific use-cases
 
