@@ -13,6 +13,7 @@
 | [wakefield](https://cran.r-project.org/web/packages/wakefield/index.html) | Generates random data sets including: data.frames, lists, and vectors | [GitHub](https://github.com/trinker/wakefield)
 | [fabricatr](https://cran.r-project.org/web/packages/fabricatr/index.html) | Hierarchical data structures and correlated data can be easily simulated, either from random number generators or by resampling from existing data sources | [GitHub](https://github.com/DeclareDesign/fabricatr)
 | [faux](https://cran.r-project.org/web/packages/faux/index.html) | Create datasets with factorial structure through simulation by specifying variable parameters | [documentation](https://debruine.github.io/faux/), [paper](https://doi.org/10.5281%2Fzenodo.2669586), [GitHub](https://github.com/debruine/faux)
+| [mice](https://cran.r-project.org/web/packages/mice/index.html) | Extend imputation procedures for missing data to synthetic data, such that (part of) the observed data can be easily overimputed with fake, privacy-preserving, synthetic records | [documentation](https://www.gerkovink.com/miceVignettes/synthetic/synthetic.html), [paper](https://www.mdpi.com/2624-8611/3/4/45), [GitHub](https://github.com/amices/mice)
 
 For more inspiration on how to create fake data, see this [article](https://rviews.rstudio.com/2020/09/09/fake-data-with-r/).
 
