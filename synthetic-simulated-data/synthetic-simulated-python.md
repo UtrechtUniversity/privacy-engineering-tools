@@ -14,7 +14,7 @@ Active maintenance is loosely defined as there being substantial (more than just
 This packages in this category are useful if you have a tabular dataset and want to create a new synthetic dataset with similar properties.
 
 
-| Name | Methods |  Extra Features | Synthetic spectrum | Maintenance | GitHub stars | Paper | License |
+| Name | Methods |  Extra Features | Synthetic spectrum | Maintenance | GitHub stars | References | License |
 |--|--|--|--|--|--|--|--|
 | [SDV](https://github.com/sdv-dev/SDV) | Copula, GAN, TVAE | Single table, relational database, time-series, deidentification | synthetically-augmented replica | Active | 900+ | [paper](https://dai.lids.mit.edu/wp-content/uploads/2018/03/SDV.pdf) | MIT | 
 | [ydata-synthetic](https://github.com/ydataai/ydata-synthetic) | GAN | Single table and time-series | Synthetically-augmented multivariate plausible | Active | 600+ | - | [MIT](https://github.com/ydataai/ydata-synthetic/blob/dev/LICENSE) |
@@ -27,7 +27,7 @@ This packages in this category are useful if you have a tabular dataset and want
 
 Generative methods generally do not need any input dataset. Instead the user specifies the properties of the dataset and the package generates the synthetic data from this specification.
 
-| Name | Creates | Extra features | Maintenance | GitHub stars | paper | License |
+| Name | Creates | Extra features | Maintenance | GitHub stars | References | License |
 |--|--|--|--|--|--|--|
 | [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_regression.html#sklearn.datasets.make_regression) | Random matrices | - | Active | 50K+ | - | BSD-3-Clause |
 | [faker](https://github.com/joke2k/faker) | Many kinds of private information | Modular structure | Active | 10K+ | - | MIT |
@@ -45,7 +45,7 @@ Generative methods generally do not need any input dataset. Instead the user spe
 
 These packages have more specific use-cases and are not purely generative.
 
-| name | Creates | Extra features | Maintenance | GitHub stars | paper | License |
+| name | Creates | Extra features | Maintenance | GitHub stars | References | License |
 |--|--|--|--|--|--|--|
 | [syndata-generation](https://github.com/debidatta/syndata-generation) | Images for object detection | - | Inactive | 200+ | [paper](https://arxiv.org/abs/1708.01642) | MIT |
 | [smogn](https://github.com/nickkunz/smogn) | Improved tabular dataset | Synthetic Minority Over-Sampling, Pure Python | Active | 100+ | [paper](http://proceedings.mlr.press/v74/branco17a/branco17a.pdf) | GPL-v3 |

@@ -1,6 +1,6 @@
 # R Packages To Generate Synthetic Data & Simulated Data
 
-| Package | Description | extra links |
+| Package | Description | References |
 |---------|-------------|--------------|
 | [synthpop](https://cran.r-project.org/web/packages/synthpop/index.html) | A tool for producing synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis. | [documentation](https://cran.r-project.org/web/packages/synthpop/index.html), [paper](https://www.jstatsoft.org/article/view/v074i11), [GitHub](https://github.com/bnowok/synthpop)
 | [sdcMicro](https://cran.r-project.org/web/packages/sdcMicro/index.html) | Statistical Disclosure Control Methods for Anonymization of Data and Risk Estimation | [documentation](https://cran.r-project.org/web/packages/sdcMicro/vignettes/recordSwapping.html), [paper](https://doi.org/10.18637%2Fjss.v067.i04), [GitHub](https://github.com/sdcTools/sdcMicro)
