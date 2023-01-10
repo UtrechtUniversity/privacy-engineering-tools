@@ -19,7 +19,7 @@ We prefer that you also include:
   - Levels: 0-10, 10-100, 100-500, 500-1000, 1000+
   - Only relevant if the tool is on GitHub
 - License + a link to the license if possible
-  - We've already come across: MIT / GPL-v2 / GPL-v3 / Apache 2.0 / BSD-3 Clause / BSD-2 Clause / BSD-3 Clause-Clear / EUPL-1.2 / Missing
+  - We've already come across: MIT / GPL-v2 / GPL-v3 / Apache 2.0 / BSD-3 Clause / BSD-2 Clause / BSD-3 Clause-Clear / GNU LGPL / EUPL-1.2 / Missing
 - More info: where can users find more information? Think of documentation, tutorials, articles, demonstrations, etc.
   - Please make sure you are using persistent identifers where possible, e.g. for a journal article a DOI is preferable.
 
