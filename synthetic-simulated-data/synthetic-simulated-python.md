@@ -34,6 +34,7 @@ Generative methods generally do not need any input dataset. Instead the user spe
 | [mimesis](https://github.com/lk-geimfari/mimesis) | Many kinds of private information | High performance, multilingual | Active | 3k+ | - | MIT |
 | [BlenderProc](https://github.com/DLR-RM/BlenderProc) | Images for segmentation, distance estimation  |  Physics simulation, camera sampling | Active | 1K+ | [paper](https://arxiv.org/abs/1911.01911) | GPL-v3 |
 | [plait.py](https://github.com/plaitpy/plaitpy) | User defined data | From user-defined template with statistical properties | Inactive | 400+ | - | [MIT license](https://github.com/plaitpy/plaitpy/blob/master/LICENSE.txt) |
+| [zpy](https://github.com/ZumoLabs/zpy) | Images for machine learning applications| Uses blender to generate images | Inactive | 200+ | - | [GPL-v3.0 license](https://github.com/ZumoLabs/zpy/blob/main/LICENSE) |
 | [Synthdet](https://github.com/Unity-Technologies/SynthDet) | Images for object detection | - | Active | 200+ | [paper](https://blogs.unity3d.com/2020/09/17/training-a-performant-object-detection-ml-model-on-synthetic-data-using-unity-computer-vision-tools/) | Apache v2.0|
 | [pydbgen](https://github.com/tirthajyoti/pydbgen) | SQL databases and DataFrames  with private information | ease of use | Inactive | 200+ | - | MIT |
 | [timeseries-generator](https://github.com/Nike-Inc/timeseries-generator) | Time-series | GUI, built-in economics factors | Active | 60+ | - | Apache 2.0 |
