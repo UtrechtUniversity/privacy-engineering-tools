@@ -5,6 +5,7 @@ These packages are used for de-identification.
 | Name | De-identifies | Other features | Maintenance | GitHub stars | More info | License |
 |--|--|--|--|--|--|--|
 | [presidio](https://github.com/microsoft/presidio) | Text and Images | customization | Active | 1000+ | - | [MIT](https://github.com/microsoft/presidio/blob/main/LICENSE)
+| [pynonymizer](https://github.com/rwnx/pynonymizer) | Relational Databases | uses [faker](https://github.com/joke2k/faker) | Active | 10-100 | - | [MIT license](https://github.com/rwnx/pynonymizer/blob/master/LICENSE) |
 | [deduce](https://github.com/vmenger/deduce) | Dutch medical texts | - | Active | 10-100 | [article](https://doi.org/10.1016/j.tele.2017.08.002) | [GPL-v3](https://github.com/vmenger/deduce/blob/main/LICENSE.md)
 | [Masked-Piper](https://github.com/WimPouw/TowardsMultimodalOpenScience) | People in videos | kinematic overlays, time-series | Active | 0-10 | - | MIT |
 | [anonymoUUs](https://github.com/UtrechtUniversity/anonymouus) | Text | Pattern matching, directories | Active | 0-10 | - | [MIT](https://github.com/UtrechtUniversity/anonymouus/blob/main/LICENSE.md) |
