@@ -1,26 +1,24 @@
+# Python packages to create synthetic data
 
+This is a list of Python packages that can help you generate synthetic data. The list was compiled mainly through searching in Google and GitHub. Naturally, some packages will be missing, so feel free to suggest other packages via a Pull Request.
 
-
-# Python packages for synthetic data
-
-This is a list of python packages that deal with generating synthetic data. It is compiled mainly through searching in google and GitHub. Naturally, some packages will be missed, so feel free to suggest other packages and make a pull request.
-
-The python packages are subdivided into three different categories: tabular, purely generative and other. This is a loose classification, since packages might fall into multiple categories.
-
-Active maintenance is loosely defined as there being substantial (more than just editing the README) changes to the package in the last year.
+We divided the packages into three categories: Tabular dataset, Purely generative datasets and packages for specific use cases. This is a loose classification, since packages might fall into multiple categories.
 
 ## Tabular datasets
 
 This packages in this category are useful if you have a tabular dataset and want to create a new synthetic dataset with similar properties.
 
+Name	Description	Data type	More info	License	Maintenance	GitHub stars
 
-| Name | Methods |  Extra Features | Synthetic spectrum | Maintenance | GitHub stars | References | License |
+
+
+| Name | Methods |  Extra Features | Synthetic spectrum | More info | License | Maintenance | GitHub stars
 |--|--|--|--|--|--|--|--|
-| [SDV](https://github.com/sdv-dev/SDV) | Copula, GAN, TVAE | Single table, relational database, time-series, deidentification | synthetically-augmented replica | Active | 900+ | [paper](https://dai.lids.mit.edu/wp-content/uploads/2018/03/SDV.pdf) | MIT | 
-| [ydata-synthetic](https://github.com/ydataai/ydata-synthetic) | GAN | Single table and time-series | Synthetically-augmented multivariate plausible | Active | 600+ | - | [MIT](https://github.com/ydataai/ydata-synthetic/blob/dev/LICENSE) |
-| [Gretel Synthetics](https://github.com/gretelai/gretel-synthetics) | LSTM | Differential Privacy | Synthetically-augmented multivariate plausible | Active | 200+ | - | [Apache-2.0](https://github.com/gretelai/gretel-synthetics/blob/master/LICENSE) |
-| [DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer) | Bayesian Network | Web User Interface, intermediate file, differential privacy | synthetic structural, synthetically-augmented plausible, synthetically-augmented multivariate plausible | Active | 100+ | [paper](https://github.com/DataResponsibly/DataSynthesizer/blob/master/docs/cr-datasynthesizer-privacy.pdf) | MIT |
-| [synthia](https://github.com/dmey/synthia) | fPCA, Gaussian copula, vine copula | Supports xarray | Synthetically-augmented multivariate/univariate plausible| Active | 20+ | [software](https://doi.org/10.21105/joss.02863), [application](https://doi.org/10.5194/gmd-14-5205-2021) | MIT |
+| [Synthetic Data Vault](https://github.com/sdv-dev/SDV) (SDV) | Copula, GAN, TVAE | Single table, relational database, time-series, de-identification | Synthetically-augmented replica | [Article](https://doi.org/10.1109/DSAA.2016.49) ([pdf](https://dai.lids.mit.edu/wp-content/uploads/2018/03/SDV.pdf)), [documentation](https://sdv.dev/SDV/) | [MIT](https://github.com/sdv-dev/SDV/blob/master/LICENSE) | Active | 500-1000
+| [ydata-synthetic](https://github.com/ydataai/ydata-synthetic) | GAN | Single table and time-series | Synthetically-augmented multivariate plausible | - | [MIT](https://github.com/ydataai/ydata-synthetic/blob/dev/LICENSE) | Active | 500-1000
+| [Gretel Synthetics](https://github.com/gretelai/gretel-synthetics) | LSTM | Differential Privacy | Synthetically-augmented multivariate plausible | - | [Apache-2.0](https://github.com/gretelai/gretel-synthetics/blob/master/LICENSE) | Active | 100-500
+| [DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer) | Bayesian Network | Web User Interface, intermediate file, differential privacy | Synthetic structural, synthetically-augmented plausible, synthetically-augmented multivariate plausible | [paper](https://github.com/DataResponsibly/DataSynthesizer/blob/master/docs/cr-datasynthesizer-privacy.pdf) | MIT | Active | 100-500
+| [synthia](https://github.com/dmey/synthia) | fPCA, Gaussian copula, vine copula | Supports xarray | Synthetically-augmented multivariate/univariate plausible| [software](https://doi.org/10.21105/joss.02863), [application](https://doi.org/10.5194/gmd-14-5205-2021) | MIT | Active | 10-100
 
 
 ## Generative
@@ -54,4 +52,3 @@ These packages have more specific use-cases and are not purely generative.
 | [doppelGANger](https://github.com/fjxmlzn/DoppelGANger) | Timeseries generation | Use GANs, high customization | Active | 100+ | [paper](https://arxiv.org/abs/1909.13403) | [BSD-3-Clause-Clear](https://github.com/fjxmlzn/DoppelGANger/blob/master/LICENSE) |
 | [augraphy](https://github.com/sparkfish/augraphy) | Paper documents | - | Active | 50+ | - | MIT |
 | [tofu](https://github.com/spiros/tofu) | UK Biobank synthetic data | - | Inactive | 30+ | - |  [paper](http://doi.org/10.5281/zenodo.3634604) | Missing |
-
