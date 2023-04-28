@@ -7,3 +7,7 @@ We have categorized the synthetic data tools in three categories:
 - [R packages](synthetic-simulated-data/synthetic-simulated-r.md);
 - [Python packages](synthetic-simulated-data/synthetic-simulated-python.md);
 - [Other synthetic data solutions](synthetic-simulated-data/synthetic-simulated-other.md), including some commercial solutions to produce synthetic data.
+
+### Synthetic data vs. simulated data
+
+There is a large number of packages that can *simulate* data. While closely related to synthetic data, we explicitly exclude simulation packages, because of the different aim: usually the aim of simulations is to test hypotheses and validate models, whereas the aim of synthetic data as we use it in this repository is to provide a degree of data protection for real individuals in real datasets.
