@@ -1,14 +1,12 @@
 
 # Encryption tools
 
-Here you can find a list of encryption tools. Please note that this is Work In Progress. Any suggestions for improvement are welcome.
+Here you can find a list of encryption tools. There are many more encryption tools and packages available - here we selected the ones most commonly used. If you want to know more, there is a very extensive [comparison of encryption software](https://en.wikipedia.org/wiki/Comparison_of_disk_encryption_software) on Wikipedia.
 
-**Important notes**  
+### Important notes 
 - When encrypting data, it is always important to store the key to decrypt the data in a safe location such as a password manager. It is often the case that once you lose the key, you lose access to the data. 
 - When sharing encrypted data with others, make sure you share the password or decryption key via another way than how you share the data.
 - Some encryption tools can use keyfiles besides passwords that are needed to decrypt the data. These can either be created by the tool, or you can use personal files like a specific picture.
-
-If you want to know more, there is a very extensive [comparison of encryption software](https://en.wikipedia.org/wiki/Comparison_of_disk_encryption_software) on Wikipedia.
 
 ## Full drive encryption
 
