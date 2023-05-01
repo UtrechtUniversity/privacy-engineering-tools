@@ -10,3 +10,24 @@ We have divided the de-identification tools into three major groups:
 1. De-identification tools for which [no programming](deidentification/deidentification-other.md) is required (e.g., complete software packages or graphical user interfaces);
 2. [Python packages](deidentification/deidentification-python.md) to de-identify data;
 3. [R packages](deidentification-r.md) to de-identify data.
+
+### Currently included tools
+
+The following tools are currently included in this folder:
+
+- Tabular data: 
+  - User interfaces: ARX, Amnesia, sdcMicro, mu-Argus, tau-Argus, Datacheck, OpenPseudonymiser, OpenDP
+  - Python packages: pynonymizer, anonymoUUs
+  - R packages: scrMicro, sdcTable, Datacheck
+- Textual data: 
+  - User interfaces: -
+  - Python packages: presidio, deduce, anonymoUUs, Textwash
+  - R packages: -
+- Images/video: 
+  - User interfaces: -
+  - Python packages: presidio, Masked-Piper
+  - R packages: -
+
+### Other useful overviews
+
+- There is a GitHub organization dedicated to tools to perform [Statistical Disclosure Control](https://github.com/sdcTools). They offer [support](https://github.com/sdcTools/UserSupport) and [documentation](https://github.com/sdcTools/manuals) for sdcMicro, sdcTable, mu-Argus and tau-Argus, among others.
