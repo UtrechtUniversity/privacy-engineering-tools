@@ -19,6 +19,8 @@ You can read more about this in the [Data Privacy Handbook](https://utrechtunive
 | [OpenPseudonymiser](https://www.openpseudonymiser.org/Default.aspx) | Hashing software (registration required) | Tabular  (CSV) | Hashing (SHA-256) | [Documentation](https://www.openpseudonymiser.org/OpenPseudonymiser_Docs.aspx) | [GPL-v3](https://www.gnu.org/licenses/) |  Inactive | NA |
 | [OpenDP](https://opendp.org/) | Community of [Open source](https://github.com/opendp/opendp) libraries with differentially private algorithms  | - | Differential Privacy | - | [GitHub](https://github.com/opendp) | Active | - |
 
+You can find a more detailed comparison between ARX, mu-Argus, sdcMicro and Amnesia in [Stenersen (2020)](https://www.duo.uio.no/bitstream/handle/10852/79902/13/Anonymization-of-Health-Data.pdf#page=75) ([persistent link](http://hdl.handle.net/10852/79902)).
+
 ## Qualitative data (TODO)
 
 We need to look into tools to deidentify qualitative data a bit more. In the meantime, here are a few first ones:
