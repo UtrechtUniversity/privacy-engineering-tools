@@ -1,7 +1,6 @@
-
 # Encryption tools
 
-Here you can find a list of encryption tools. There are many more encryption tools and packages available - here we selected the ones most commonly used. If you want to know more, there is a very extensive [comparison of encryption software](https://en.wikipedia.org/wiki/Comparison_of_disk_encryption_software) on Wikipedia.
+Here you can find a list of encryption tools. There are many more encryption tools and packages available - here we selected the ones most commonly used. However, there are many more tools available, see for example this [Wikipedia comparison of encryption software](https://en.wikipedia.org/wiki/Comparison_of_disk_encryption_software), [this overview](https://github.com/CKs-Technology-News/PrivacyTools/blob/main/Desktop%20Tools.md#encryption-filefde), and this [short list of open source encryption tools](https://github.com/pluja/awesome-privacy#encryption).
 
 ### Important notes 
 - When encrypting data, it is always important to store the key to decrypt the data in a safe location such as a password manager. It is often the case that once you lose the key, you lose access to the data. 
