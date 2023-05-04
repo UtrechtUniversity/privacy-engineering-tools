@@ -23,7 +23,7 @@ Important notes:
 
 ## License and citation
 
-This repository is licensed under an MIT license. You can [view the license here](/LICENSE.md). 
+This repository is licensed under an [MIT license](/LICENSE.md). You can cite us via the (soon to appear) Zenodo link on the top of this README file.
 
 ## Contact and contribution
 
