@@ -7,7 +7,7 @@ This repository was created as part of the <a href="https://utrechtuniversity.gi
 We currently have the following overviews:
 
 - Packages and (open source) software to [de-identify (pseudonymise/anonymise) data](deidentification)
-- Packages and services to generate [synthetic & simulated data](synthetic-simulated-data)
+- Packages and services to generate [synthetic data](synthetic-data)
 - Software to [securely analyse or encrypt data](secure-computing)
 
 ## Why this repository?
