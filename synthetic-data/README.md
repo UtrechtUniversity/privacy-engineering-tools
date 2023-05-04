@@ -4,9 +4,9 @@ Synthetic data can be a great way make your data less identifiable. It works by 
 
 We have categorized the synthetic data tools in three categories: 
 
-- [R packages](synthetic-simulated-data/synthetic-simulated-r.md);
-- [Python packages](synthetic-simulated-data/synthetic-simulated-python.md);
-- [Other synthetic data solutions](synthetic-simulated-data/synthetic-simulated-other.md), including some commercial solutions to produce synthetic data.
+- [R packages](synthetic-r.md);
+- [Python packages](synthetic-python.md);
+- [Other synthetic data solutions](synthetic-other.md), including some commercial solutions to produce synthetic data.
 
 ### Synthetic data vs. simulated data
 
