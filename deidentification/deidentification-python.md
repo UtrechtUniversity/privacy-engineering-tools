@@ -1,13 +1,15 @@
-# Deidentification Tools in Python
+# De-identification Tools in Python
 
-These packages are used for de-identification.
+We found the following Python packages to de-identify data, sorted alphabetically:
 
-| Name | De-identifies | Other features | Maintenance | GitHub stars | More info | License |
-|--|--|--|--|--|--|--|
-| [presidio](https://github.com/microsoft/presidio) | Text and Images | customization | Active | 1000+ | - | [MIT](https://github.com/microsoft/presidio/blob/main/LICENSE)
-| [pynonymizer](https://github.com/rwnx/pynonymizer) | Relational Databases | uses [faker](https://github.com/joke2k/faker) | Active | 10-100 | - | [MIT license](https://github.com/rwnx/pynonymizer/blob/master/LICENSE) |
-| [deduce](https://github.com/vmenger/deduce) | Dutch medical texts | - | Active | 10-100 | [article](https://doi.org/10.1016/j.tele.2017.08.002) | [GPL-v3](https://github.com/vmenger/deduce/blob/main/LICENSE.md)
-| [Masked-Piper](https://github.com/WimPouw/TowardsMultimodalOpenScience) | People in videos | kinematic overlays, time-series | Active | 0-10 | - | MIT |
-| [anonymoUUs](https://github.com/UtrechtUniversity/anonymouus) | Text | Pattern matching, directories | Active | 0-10 | - | [MIT](https://github.com/UtrechtUniversity/anonymouus/blob/main/LICENSE.md) |
-| [Textwash](https://github.com/maximilianmozes/textwash) | English  text | Based on machine learning. Currently only available in English, but an interface for Dutch text anonymisation is in the making in the [FAMTAFOS project](https://www.nwo.nl/en/projects/203001143) | Active | 0-10 | - | [GPL-v3](https://github.com/maximilianmozes/textwash/blob/main/LICENSE) |
-
+| Name | Description | Data type  | More info | License | Maintenance | GitHub stars |
+|---|---|---|---|---|---|---| 
+| [anonymoUUs](https://github.com/UtrechtUniversity/anonymouus) | Replace identifiable strings in multiple files and folders at once using pattern matching | Text (.txt, .html, .json, .csv) | - | [MIT](https://github.com/UtrechtUniversity/anonymouus/blob/main/LICENSE.md) | Active | 0-10
+| [deduce](https://github.com/vmenger/deduce) | Rule-based (pattern matching) de-identification for Dutch clinical text | Text | [article](https://doi.org/10.1016/j.tele.2017.08.002), [documentation](https://deduce.readthedocs.io/en/latest/index.html) | [GPL-v3](https://github.com/vmenger/deduce/blob/main/LICENSE.md) | Active | 10-100
+| [DeepPrivacy2](https://github.com/hukkelas/deep_privacy2) | Replaces real people with synthetically (GAN) generated people in images and videos | Images, videos | [Documentation](https://www.hukkelas.no/deep_privacy2/#/), [article](https://openaccess.thecvf.com/content/WACV2023/supplemental/Hukkelas_DeepPrivacy2_Towards_Realistic_WACV_2023_supplemental.pdf), [video presentation](https://www.youtube.com/watch?v=wwKRkkzxKuM) | [Apache 2.0](https://github.com/hukkelas/deep_privacy2/blob/master/LICENSE) | Active | 100-500 |
+| [Masked-Piper](https://github.com/WimPouw/TowardsMultimodalOpenScience) | Masking personal identities in visual recordings while preserving multimodal information, outputting kinematic overlays and time-series | Video | [article](https://doi.org/10.1016/j.softx.2022.101236), [notebook](https://wimpouw.github.io/TowardsMultimodalOpenScience/Index) | MIT | Active | 0-10
+| [MaskMyPy](https://github.com/TheTinHat/MaskMyPy) | [Donut](https://thetinhat.github.io/MaskMyPy/donut/) and [street](https://thetinhat.github.io/MaskMyPy/street/) masking of geographic data | [Geodataframes](http://geopandas.org/data_structures.html) | [Documentation](https://thetinhat.github.io/MaskMyPy/) | [MIT](https://github.com/TheTinHat/MaskMyPy/blob/master/LICENSE) | Active | 0-10 |
+| [mysto](https://github.com/mysto/python-mysto) | Generalization and masking of identifiers | Tabular data | [on PyPi](https://pypi.org/project/mysto/) | [Apache 2.0](https://opensource.org/license/apache-2-0/) | Inactive | 0-10 |
+| [presidio](https://github.com/microsoft/presidio) | Automated sensitive data recognition, includes customization options | Text, images | [documentation](https://microsoft.github.io/presidio/) | [MIT](https://github.com/microsoft/presidio/blob/main/LICENSE) | Active | 1000+
+| [pynonymizer](https://github.com/rwnx/pynonymizer) | Replaces sensitive data with Fake data using [faker](https://github.com/joke2k/faker) | Relational databases | [package on PyPI](https://pypi.org/project/pynonymizer/https://pypi.org/project/pynonymizer/) | [MIT](https://github.com/rwnx/pynonymizer/blob/master/LICENSE) | Active | 10-100
+| [Textwash](https://github.com/maximilianmozes/textwash) | Machine-learning-based, automated replacement of identifiable information | Unstructured text | The [FAMTAFOS project](https://www.nwo.nl/en/projects/203001143) is creating a version of this tool for Dutch text | [GPL-v3](https://github.com/maximilianmozes/textwash/blob/main/LICENSE) | Active | 0-10 |
