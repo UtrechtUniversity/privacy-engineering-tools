@@ -10,4 +10,4 @@ We have categorized the synthetic data tools in three categories:
 
 ### Synthetic data vs. simulated data
 
-There is a large number of packages that can *simulate* data. While closely related to synthetic data, we explicitly exclude simulation packages, because of the different aim: usually the aim of simulations is to test hypotheses and validate models, whereas the aim of synthetic data as we use it in this repository is to provide a degree of data protection for real individuals in real datasets.
+There is a large number of packages that can *simulate* data. While simulation can be a great way to create synthetic data, we explicitly exclude simulation packages/tools. Simulations are very domain-specific and usually aim to test hypotheses and validate models, whereas the aim of synthetic data as we use it in this repository is to provide a degree of data protection for real individuals in real datasets. Simulations are therefore outside of the current scope of this repository.
