@@ -1,4 +1,5 @@
 # An overview of privacy engineering tools
+[![DOI](https://zenodo.org/badge/561298915.svg)](https://zenodo.org/badge/latestdoi/561298915)
 
 Welcome! In this repository we created an overview of useful - and mostly open source - privacy engineering tools, i.e., tools to make it easier to handle personal data in research. For example, we collected useful packages/tools to help de-identify personal data, but also to create synthetic micro-data. 
 
