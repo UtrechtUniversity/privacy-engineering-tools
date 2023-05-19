@@ -1,0 +1,62 @@
+{
+	"creators": [{
+		"affiliation": "Utrecht University",
+		"name": "Research Data Management Support"
+	}],
+	"contributors": [{
+			"orcid": "0000-0003-3282-8083",
+			"affiliation": "Utrecht University",
+			"name": "Huijser, Dorien",
+			"type": "ProjectMember"
+		},
+		{
+			"orcid": "0000-0001-6616-230X",
+			"affiliation": "Utrecht University",
+			"name": "Schram, Raoul",
+			"type": "ProjectMember"
+		},
+		{
+			"orcid": "0000-0003-1412-4402",
+			"affiliation": "Utrecht University",
+			"name": "Moopen, Neha",
+			"type": "ProjectMember"
+		},
+		{
+			"orcid": "0000-0001-9510-0802",
+			"affiliation": "Utrecht University",
+			"name": "Janssen, Rik D.T.",
+			"type": "ProjectMember"
+		}
+	],
+	"title": "Overview of privacy engineering tools for research",
+	"access_right": "open",
+	"related_identifiers": [{
+		"identifier": "https://utrechtuniversity.github.io/dataprivacyproject",
+		"relation": "describes",
+		"resource_type": "other"
+	}],
+	"keywords": [
+		"privacy",
+		"research",
+		"gdpr",
+		"academia",
+		"general data protection regulation"
+	],
+	"communities": [{
+		"identifier": "uu-rdm-support"
+	}],
+	"upload_type": "publication",
+	"publication_type": "deliverable",
+	"language": "eng",
+	"subjects": [{
+			"term": "research data management",
+			"identifier": "https://codata.org/rdm-terminology/research-data-management/",
+			"scheme": "url"
+		},
+		{
+			"term": "privacy",
+			"identifier": "https://codata.org/rdm-terminology/privacy/",
+			"scheme": "url"
+		}
+	]
+}
