@@ -7,8 +7,8 @@ For a comprehensive overview of what de-identification is and how it can be appl
 
 We have divided the de-identification tools into three major groups:
 
-1. De-identification tools for which [no programming](deidentification/deidentification-other.md) is required (e.g., complete software packages or graphical user interfaces);
-2. [Python packages](deidentification/deidentification-python.md) to de-identify data;
+1. De-identification tools for which [no programming](deidentification-other.md) is required (e.g., complete software packages or graphical user interfaces);
+2. [Python packages](deidentification-python.md) to de-identify data;
 3. [R packages](deidentification-r.md) to de-identify data.
 
 ### Currently included tools
