@@ -24,7 +24,7 @@ Important notes:
 
 ## License and citation
 
-This repository is licensed under an [MIT license](/LICENSE.md). You can cite us via the (soon to appear) Zenodo link on the top of this README file.
+This repository is licensed under an [MIT license](/LICENSE.md). You can cite us via the [Zenodo deposit of this repository](https://doi.org/10.5281/zenodo.7950409).
 
 ## Contact and contribution
 
