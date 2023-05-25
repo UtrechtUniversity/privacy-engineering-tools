@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 qubixes
+Copyright (c) 2022 Research Data Management Support, Utrecht University, the Netherlands
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
