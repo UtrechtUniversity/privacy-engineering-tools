@@ -3,7 +3,7 @@
 Besides R and Python packages, there are other ways synthetic data can be created. 
 
 ## Generative data
-Most user interfaces are websites that can generate different data types in a tabular format (e.g., .CSV,.JSON), without the need for input datasets (a.k.a. generative/dummy/fake/sample/test data). Examples of such websites are:
+Most user interfaces are websites that can generate different data types in a tabular format (e.g., .CSV, .JSON), without the need for input datasets (a.k.a. generative/dummy/fake/sample/test data). Examples of such websites are:
 
 - [Mockaroo](https://www.mockaroo.com/) (free up to 1000 rows)
 - [Generate Data](https://generatedata.com/) (max. 500 rows via the website, [open source](https://github.com/benkeen/generatedata))
@@ -18,7 +18,7 @@ There are many companies that offer services to create synthetic data, often inc
 
 Here are some examples, although this is by far not an exhaustive list:
 
-- [Clearbox AI](https://www.clearbox.ai/) offers a free demo of their algorithm for tabular data (csv), up to 10 MB and 3 syntetic data projects per week.
+- [Clearbox AI](https://www.clearbox.ai/) offers a free demo of their algorithm for tabular data (csv), up to 10 MB and 3 synthetic data projects per week.
 - [Syntho](https://www.syntho.ai/) is a paid service.
 - [Mostly AI](https://mostly.ai/) lets you create 100K rows of synthetic tabular data per day for free.
 - The company Synthetized has a [Scientific Data Kit](https://docs.synthesized.io/sdk/latest/): a Python package with a free 30-day trial.
